@@ -36,7 +36,7 @@ body{
   }
   @media screen and (max-width:768px){
     .header{
-      background: url('../img/headerBcg.jpeg')center/cover fixed no-repeat;
+      background: url('../img/work4.jpeg')center/cover fixed no-repeat;
     }
   }
   /* banner  */
@@ -181,7 +181,7 @@ body{
       justify-content: space-between;
       padding: 0.25rem;
       cursor: pointer;
-      border-radius: 0.5rem;
+      border-radius: 0.66rem;
     }
     .video__switch-btn{
       position: absolute;
